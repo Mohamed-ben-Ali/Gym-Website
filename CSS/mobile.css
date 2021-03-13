@@ -1,0 +1,35 @@
+/*  Navbar  */
+#navbar{
+    flex-direction: column;
+    padding-bottom:1.5rem ;
+}
+#navbar .logo{
+    margin-bottom: 1rem;
+}
+
+/*  About   */
+#about .about-content{
+    display: block;
+    text-align: center;
+}
+#about .about-content img{
+    width: 100%;
+    margin: 1rem 0 0 0;
+
+}
+
+/* Programs     */
+#programs .boxes{
+    display: block;
+}
+
+/*  trainers    */
+#trainers .trainers-boxes{
+    display: block;
+}
+
+/* Contact */
+#contact{
+    flex-direction: column;
+    height: 1000px;
+}
